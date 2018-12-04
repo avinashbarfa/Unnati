@@ -1,0 +1,19 @@
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+.about-title img {
+	padding-left:38%;
+}
+
+@media screen and (max-width: 648px) {
+	.about-title img {
+		padding-left: 0px;
+		width: 205px;
+    	height: 55px;
+   		margin-left: 23%;
+		
+	}
+}
